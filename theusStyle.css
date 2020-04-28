@@ -14,5 +14,14 @@ h1 {
 
 body {
     background-color: #e9cece;
+}
+
+.description {
+    font-family: "Marcellus SC", serif;
     color: #4e1e3e;
+}
+
+.headers {
+    font-family: "Katibeh", serif;
+    color: #cf822a;
 }
