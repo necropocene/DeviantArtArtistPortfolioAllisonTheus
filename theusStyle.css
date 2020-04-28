@@ -17,11 +17,11 @@ body {
 }
 
 .description {
-    font-family: "Marcellus SC", serif;
+    font-family: "Katibeh", "Garamond", serif;
     color: #4e1e3e;
 }
 
-.headers {
-    font-family: "Katibeh", serif;
+.header {
+    font-family: "Marcellus SC", "Garamond", serif;
     color: #cf822a;
 }
