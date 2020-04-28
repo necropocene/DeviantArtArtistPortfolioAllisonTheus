@@ -14,14 +14,18 @@ h1 {
 
 body {
     background-color: #e9cece;
+    text-align: center;
+    align-content: center;
 }
 
 .description {
     font-family: "Katibeh", "Garamond", serif;
     color: #4e1e3e;
+
 }
 
 .header {
     font-family: "Marcellus SC", "Garamond", serif;
     color: #cf822a;
 }
+
