@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Marcellus SC'; /* shorthand for font that looks like her signature font */
+    src: url('https://fonts.googleapis.com/css2?family=Marcellus+SC&display=swap');
+}
+
+@font-face {
+    font-family: 'Katibeh'; /* body text */
+    src: url('https://fonts.googleapis.com/css2?family=Katibeh&display=swap');
+}
+
+h1 {
+    font-family: "Marcellus SC";
+}
