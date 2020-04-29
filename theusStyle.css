@@ -12,6 +12,14 @@ h1 {
     font-family: "Marcellus SC";
 }
 
+h3 {
+    color: #643748;
+    background-color: #ad385f;
+    font-weight: bolder;
+    border-radius: 5rem;
+
+}
+
 body {
     background-color: #e9cece;
     text-align: center;
@@ -21,6 +29,9 @@ body {
 .description {
     font-family: "Katibeh", "Garamond", serif;
     color: #4e1e3e;
+    background-color: #ffffff;
+    font-weight: bold;
+    padding-top: 5rem;
 
 }
 
