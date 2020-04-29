@@ -44,7 +44,6 @@ a:visited {
 .description {
     font-family: 'Katibeh', cursive;
     color: #ffffff;
-    font-weight: thin;
     justify-content: center;
     padding-right: 50px;
     padding-left: 50px;
@@ -71,5 +70,5 @@ a:visited {
     font-style: italic;
     font-size: 30px;
     color: #ffa953;
-    word-spacing: 3rem;
+    word-spacing: .5rem;
 }
