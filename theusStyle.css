@@ -26,6 +26,11 @@ body {
     align-content: stretch;
 }
 
+a {
+    color: #eebc71;
+}
+
+
 .description {
     font-family: 'Katibeh', cursive;
     color: #ffffff;
