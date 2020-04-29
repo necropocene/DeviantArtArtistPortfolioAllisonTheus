@@ -21,7 +21,7 @@ h3 {
 }
 
 body {
-    background-color: #d8ae54;
+    background-color: #354439;
     text-align: center;
     align-content: stretch;
 }
@@ -41,7 +41,9 @@ body {
 }
 
 .headerImage {
-    justify-content: top;
+    align-content: stretch;
+    width: 720px;
+    opacity: 70%;
 }
 
 .links {
