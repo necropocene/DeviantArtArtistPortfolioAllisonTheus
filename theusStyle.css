@@ -27,7 +27,7 @@ body {
 }
 
 .description {
-    font-family: "Katibeh", "Garamond", serif;
+    font-family: 'Katibeh', cursive;
     color: #ffffff;
     font-weight: thin;
     justify-content: center;
@@ -47,7 +47,8 @@ body {
 }
 
 .links {
+    font-family: 'Katibeh', cursive;
     font-style: italic;
-    font-size: 13px;
-    color: #0c0600;
+    font-size: 30px;
+    color: #ffa953;
 }
