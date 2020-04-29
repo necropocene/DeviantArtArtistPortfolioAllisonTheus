@@ -21,7 +21,7 @@ h3 {
 }
 
 body {
-    background-color: #e9cece;
+    background-color: #211d2e;
     text-align: center;
     align-content: stretch;
 }
@@ -31,8 +31,9 @@ body {
     color: #4e1e3e;
     background-color: #ffffff;
     font-weight: thin;
-    border-radius: 5rem;
-    width: 20rem;
+    border-radius: 2rem;
+    width: 30rem;
+    align-content: center;
 
 }
 
@@ -43,3 +44,6 @@ body {
     
 }
 
+.links {
+    font-style: italic;
+}
