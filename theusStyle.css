@@ -54,8 +54,9 @@ a:visited {
 }
 
 .headerImage {
-    align-content: stretch;
-    width: 720px;
+    align-content: center;
+    width: 1920px;
+    height: 1080px;
     opacity: 70%;
 }
 
