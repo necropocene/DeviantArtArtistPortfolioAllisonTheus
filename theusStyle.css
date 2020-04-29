@@ -31,10 +31,7 @@ body {
     color: #4e1e3e;
     background-color: #ffffff;
     font-weight: thin;
-    border-radius: 8rem;
-    height: 20rem;
-    width: 30rem;
-    align-content: center;
+    justify-content: center;
 
 }
 
