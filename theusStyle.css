@@ -15,7 +15,8 @@ h1 {
 h3 {
     color: #643748;
     font-weight: bolder;
-    width: 10rem;
+    font-size: large;
+    align-content: center;
 
 }
 
@@ -38,7 +39,7 @@ body {
 .header {
     font-family: "Marcellus SC", "Garamond", serif;
     color: #cf822a;
-    background-color: #4e1e3e;
-    border-radius: 5rem;
+    background-color: #040816;
+    
 }
 
