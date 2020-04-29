@@ -72,3 +72,7 @@ a:visited {
     color: #ffa953;
     word-spacing: .5rem;
 }
+
+body #homepage{
+    background: url(aboutHeader.jpg);
+}
