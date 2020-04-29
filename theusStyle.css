@@ -26,7 +26,15 @@ body {
     align-content: stretch;
 }
 
-a {
+a:link {
+    color: #eebc71;
+}
+
+a:hover {
+    color: #e7ff0a;
+}
+
+a:visited {
     color: #eebc71;
 }
 
