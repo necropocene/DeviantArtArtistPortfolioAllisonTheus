@@ -56,8 +56,9 @@ a:visited {
     color: #ffffff;
     background-image: url("aboutHeader.jpg");
     background-repeat: no-repeat;
-    justify-content: stretch;
+    background-position: center center;
     padding-bottom: 2rem;
+    padding-top: 2rem;
     
 }
 
