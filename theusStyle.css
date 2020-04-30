@@ -26,7 +26,6 @@ body {
     background-color: #354439;
     text-align: center;
     align-content: stretch;
-    background: url(aboutHeader.jpg);
 }
 
 a:link {
@@ -55,14 +54,12 @@ a:visited {
 .header {
     font-family: "Marcellus SC", "Garamond", serif;
     color: #ffffff;
+    background-image: url("homePage.jpg");
     
 }
 
 .headerImage {
-    align-content: fill;
     z-index: 5;
-    width: 1920px;
-    height: 1080px;
     opacity: 70%;
 }
 
