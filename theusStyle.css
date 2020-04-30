@@ -54,7 +54,9 @@ a:visited {
 .header {
     font-family: "Marcellus SC", "Garamond", serif;
     color: #ffffff;
-    background-image: url("homePage.jpg");
+    background-image: url("aboutHeader.jpg");
+    background-repeat: no-repeat;
+    align-content: center;
     
 }
 
