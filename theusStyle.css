@@ -78,8 +78,16 @@ a:visited {
     word-spacing: .5rem;
 }
 
-#image {
+.image {
     width: 100%;
 }
 
+.rightJutify {
+    align-content: right;
+    width: 50%;   
+}
+
+.icon {
+    align-content: left;
+}
 
