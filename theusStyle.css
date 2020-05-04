@@ -83,19 +83,12 @@ a:visited {
 }
 
 .rightJutify {
-    font-family: 'Katibeh', cursive;
-    color: #ffffff;
-    background-color: #598b78fb;
-    border-radius: 3px;
-    justify-content: right;
     align-content: right;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-size: 25px;
-    width: 50%;
+    width: 50%;   
 }
 
 .icon {
     align-content: left;
+
 }
 
