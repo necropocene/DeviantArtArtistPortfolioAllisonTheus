@@ -48,13 +48,16 @@ a:visited {
     font-family: 'Katibeh', cursive;
     color: #ffffff;
     background-color: #598b78fb;
+    content-align: center;
+    justify-content: center;
+    text-align: center;
     border-radius: 3px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 15px;
     padding-left: 15px;
     font-size: 25px;
-    width: 500px;
+    width: 450px;
 
 }
 
@@ -81,8 +84,9 @@ a:visited {
 }
 
 .image {
-    width: 100%;
+    width: 75%;
     height: auto;
+    align-items: center;
 }
 
 
@@ -99,6 +103,7 @@ a:visited {
     width: 100%;
     height: auto;
     grid-template: auto / auto auto;
+    column-gap: 30px;
 }
 
 .pathfind1 {
