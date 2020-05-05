@@ -106,6 +106,10 @@ a:visited {
     column-gap: 30px;
 }
 
+#about {
+    width: 60%;
+}
+
 /* bad naming, imagine "pathfind" means "item" */
 .pathfind1 {
     grid-column-start: 1;
