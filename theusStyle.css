@@ -31,6 +31,12 @@ body {
     align-content: stretch;
 }
 
+#index {
+    background-image: url(dark-dragon.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 a:link {
     color: #eebc71;
 }
