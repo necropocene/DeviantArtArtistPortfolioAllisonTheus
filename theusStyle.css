@@ -34,9 +34,10 @@ body {
 #index {
     background-image: url(dark-dragon.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-size: cover;
+    background-position: center;
+    padding-top: 10rem;
 }
-
 a:link {
     color: #eebc71;
 }
