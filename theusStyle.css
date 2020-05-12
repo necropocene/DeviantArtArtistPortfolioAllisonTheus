@@ -85,9 +85,17 @@ a:visited {
 .links {
     font-family: 'Katibeh', cursive;
     font-style: italic;
-    font-size: 30px;
+    font-size: 2.5rem;
     color: #ffa953;
-    word-spacing: .5rem;
+    padding: .5rem;
+}
+
+.links a {
+    font-family: 'Katibeh', cursive;
+    font-style: italic;
+    font-size: 2.5rem;
+    color: #ffa953;
+    padding: .5rem;
 }
 
 .image {
