@@ -123,6 +123,13 @@ a:visited {
     column-gap: 30px;
 }
 
+
+@media all and (max-width: 800px) {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+
 #about {
     font-size: 30px;
 }
