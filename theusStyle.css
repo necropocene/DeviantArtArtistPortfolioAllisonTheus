@@ -141,6 +141,11 @@ article {
     grid-template: auto / auto auto;
     column-gap: 30px;
     }
+
+    #index {
+        min-height: 150rem;
+        
+        }
 }
 
 
